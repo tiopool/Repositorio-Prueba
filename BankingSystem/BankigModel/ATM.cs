@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BankigModel
 {
-    class ATM
+    public class ATM
     {
+
     }
 }
